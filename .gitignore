@@ -17,4 +17,4 @@ Thumbs.db
 data/*.csv
 
 # Models (large binaries)
-models/*.pkl
+#models/*.pkl
